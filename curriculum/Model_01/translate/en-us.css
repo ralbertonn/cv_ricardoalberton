@@ -1,0 +1,95 @@
+#print::before{
+  content: "Print Out";
+}
+#title_developer::before{
+   content: 'WEB DEVELOPER';
+}
+#profile::before{
+  content: 'PROFILE';
+}
+#profile_description::before{
+  content: "I'm a 22-year-old web developer from Rio Grande Do Sul, involved in web development since 2014. ";
+}
+#skills::before{
+  content: "SKILLS";
+}
+#contact::before{
+  content: "CONTACT";
+}
+#work_experience::before{
+  content: "WORK EXPERIENCE";
+}
+#facilconsulta_title::before{
+  content: "Junior Web Developer - Facil Consulta (2018-2018)";
+}
+#facilconsulta::before{
+  content: "Responsible for bug fixes, system optimization and design improvements with the team.";
+}
+.achievements::before{
+  content: "Achievements";
+}
+#embrapaLab::before{
+ content:"I joined the team in creating new tools for researchers and producers in the region to use.";
+ white-space: pre-wrap;
+}
+#embrapa_li_1::before{
+  content: "Implemented the first test structure of the Embrapa Pecuária Sul.";
+}
+#embrapa_li_2::before{
+  content: "I created the structure for older systems to support mobile.";
+}
+#embrapa_li_3::before{
+  content: "Developed new tools for genetic analysis, including PWAS.";
+}
+#embrapa_li_4::before{
+  content: "";
+}
+#facilconsulta_li_1::before{
+  content: "I learned more about code versioning and task control.";
+}
+#facilconsulta_li_2::before{
+  content: "I have created screens responsible for running both desktop and mobile.";
+}
+#facilconsulta_li_3::before{
+  content: "I optimized the loading of system pages by 60%.";
+}
+#facilconsulta_li_4::before{
+  content: "I had the opportunity to work with a totally organized team following the scrum methodology.";
+}
+#embrapabol::before{
+  content:"I had the opportunity to work with incredible people here, I was responsible for developing new methods of extracting data from research by Embrapa.\A I also recreated a system from scratch using the MVC layer with PHP and javascript to make requests, I had the opportunity to improve the quality of my work here and started my life as developer, was a very good experience.";
+  white-space: pre-wrap;
+}
+#embrapabol_li_1::before{
+  content:" I've created ways to capture thousands of Embrapa search data using Google Analytics";
+}
+#embrapabol_li_2::before{
+  content:"Created new systems using SOLID principles to develop better architectures";
+}
+#embrapabol_li_3::before{
+  content:"I improved my communication skills with the team.";
+}
+#embrapabol_li_4::before{
+  content:"I totally recreated a legacy system in an object-oriented system with an MVC layer.";
+}
+#courses::before{
+  content:"Courses and certificates";
+}
+#educacao::before{
+  content:"Education";
+}
+#uninter_pos_titulo::before{
+  content:"Post graduation in mobile device engineering - Uninter (2018-Current)";
+}
+#uninter_titulo::before{
+  content:"Graduation in systems analysis and development - Uninter (2016-2018)";
+}
+#ifsul_titulo::before{
+  content:"Computer technician for internet - Ifsul (2014-2016)";
+}
+#embrapaLab_titulo::before{
+  content:"Junior Web Developer - Embrapa Pecuária Sul(2018-Current)";
+}
+#embrapabol_titulo::before{
+  content:"Fellowship of scientific initiation - Embrapa Pecuária Sul (2017-2018) ";
+}

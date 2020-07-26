@@ -1,0 +1,13 @@
+
+.sass-cache/
+*.css.map
+*.sass.map
+*.scss.map
+
+# dependencies
+/node_modules
+/src
+
+npm-debug.log*
+GulpFile.js
+yarn-error.log*

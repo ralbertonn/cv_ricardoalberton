@@ -1,0 +1,95 @@
+#print::before{
+  content: 'Imprimir';
+}
+#title_developer::before{
+   content: 'DESENVOLVEDOR WEB';
+}
+#profile::before{
+  content: 'PERFIL';
+}
+#profile_description::before{
+  content: "Eu sou um desenvolvedor web de 22 anos do Rio Grande do Sul, envolvido no desenvolvimento web desde 2014.";
+}
+#skills::before{
+  content: "HABILIDADES";
+}
+#contact::before{
+  content: "CONTATO";
+}
+#work_experience::before{
+  content: "EXPERIÊNCIA";
+}
+#facilconsulta_title::before{
+  content: "Desenvolvedor Web Junior - Facil Consulta (2018-2018)";
+}
+#facilconsulta::before{
+  content: "Responsavel por correção de bugs, otimização do sistema e melhorias no design junto a equipe.";
+}
+.achievements::before{
+  content: "Conquistas";
+}
+#embrapaLab::before{
+ content:"Participei junto ao time na criação de novas ferramentas para pesquisadores e produtores da região utilizarem.";
+ white-space: pre-wrap;
+}
+#embrapa_li_1::before{
+  content: "Implantei a primeira estrutura de testes da Embrapa Pecuária Sul.";
+}
+#embrapa_li_2::before{
+  content: "Eu criei a estrutura para sistemas mais antigos para suportar dispositivos móveis.";
+}
+#embrapa_li_3::before{
+  content: "Desenvolvi novas ferramentas para análise genética, incluindo PWAS.";
+}
+#embrapa_li_4::before{
+  content: "";
+}
+#facilconsulta_li_1::before{
+  content: "Aprendi mais sobre versionamento de código e controle de tarefas.";
+}
+#facilconsulta_li_2::before{
+  content: "Eu criei telas responsáveis por rodar em desktop e mobile.";
+}
+#facilconsulta_li_3::before{
+  content: "Eu otimizei o carregamento de páginas do sistema em 60%.";
+}
+#facilconsulta_li_4::before{
+  content: "Eu tive a oportunidade de trabalhar com uma equipe totalmente organizada seguindo a metodologia Scrum.";
+}
+#embrapabol::before{
+  content:"Tive a oportunidade de trabalhar com pessoas incríveis aqui, fui responsável pelo desenvolvimento de novos métodos de extração de dados da pesquisa da Embrapa.\A Eu também recriei um sistema do zero usando a camada MVC com PHP e javascript para fazer requests, tive a oportunidade de melhorar a qualidade do meu trabalho aqui e comecei minha vida como desenvolvedor, foi uma experiência muito boa";
+  white-space: pre-wrap;
+}
+#embrapabol_li_1::before{
+  content:"Criei formas de captar milhares de dados de pesquisas da Embrapa usando Google Analytics";
+}
+#embrapabol_li_2::before{
+  content:"Criei novos sistemas utilizando principios SOLID para desenvolver melhores arquiteturas.";
+}
+#embrapabol_li_3::before{
+  content:"Melhorei minhas habilidades de comunicação com o time.";
+}
+#embrapabol_li_4::before{
+  content:"Refatorei totalmente um sistema legado em um sistema Orientado a objetos com uma camada MVC.";
+}
+#courses::before{
+  content:"Cursos e certificados";
+}
+#educacao::before{
+  content:"Educação";
+}
+#uninter_pos_titulo::before{
+  content:"Pós Graduação em engenharia de software para dispositivos móveis - Uninter (2018-Atual)";
+}
+#uninter_titulo::before{
+  content:"Graduação em analise e desenvolvimento de sistemas - Uninter (2016-2018)";
+}
+#ifsul_titulo::before{
+  content:"Técnico em informatica voltado a internet- Ifsul (2014-2016)"
+}
+#embrapaLab_titulo::before{
+  content:"Desenvolvedor Web Junior - Embrapa Pecuária Sul(2018-Atual)"
+}
+#embrapabol_titulo::before{
+  content:" Bolsista de iniciação ciêntifica - Embrapa Pecuária Sul (2017-2018) "
+}
